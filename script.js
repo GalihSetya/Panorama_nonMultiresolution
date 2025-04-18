@@ -107,7 +107,7 @@ const viewer = pannellum.viewer('panorama', {
     scenes: {
         Depanvilla: {
             type: "equirectangular",
-            panorama: "./Images/DepanVilla.jpg",
+            panorama: "./Images/DepanVilla.JPG",
             hotSpots: [
                 {
                     pitch: 7,
@@ -127,7 +127,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         Aula: {
             type: "equirectangular",
-            panorama: "./Images/Aula.jpg",
+            panorama: "./Images/Aula.JPG",
             hotSpots: [
                 {
                     pitch: 0,
@@ -168,7 +168,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         Parkiran: {
             type: "equirectangular",
-            panorama: "./Images/Parkiran.jpg",
+            panorama: "./Images/Parkiran.JPG",
             hotSpots: [
                 {
                     pitch: -5,
@@ -188,7 +188,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         Lapangan: {
             type: "equirectangular",
-            panorama: "./Images/Lapangan.jpg",
+            panorama: "./Images/Lapangan.JPG",
             hotSpots: [
                 {
                     pitch: 0,
@@ -201,7 +201,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         Kamar1: {
             type: "equirectangular",
-            panorama: "./Images/Kamar1.jpg",
+            panorama: "./Images/Kamar1.JPG",
             hotSpots: [
                 {
                     pitch: -5,
@@ -214,7 +214,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         Kamar2: {
             type: "equirectangular",
-            panorama: "./Images/Kamar2.jpg",
+            panorama: "./Images/Kamar2.JPG",
             hotSpots: [
                 {
                     pitch: -5,
@@ -227,7 +227,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         Kamar3: {
             type: "equirectangular",
-            panorama: "./Images/Kamar3.jpg",
+            panorama: "./Images/Kamar3.JPG",
             hotSpots: [
                 {
                     pitch: -5,
@@ -240,7 +240,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         Kamar4: {
             type: "equirectangular",
-            panorama: "./Images/Kamar4.jpg",
+            panorama: "./Images/Kamar4.JPG",
             hotSpots: [
                 {
                     pitch: 7,
@@ -253,7 +253,7 @@ const viewer = pannellum.viewer('panorama', {
         },
         DepanDapur: {
             type: "equirectangular",
-            panorama: "./Images/DepanDapur.jpg",
+            panorama: "./Images/DepanDapur.JPG",
             multiRes: {
                 basePath: "./panorama/DepanDapur",
                 path: "/%l/%s%y_%x",
